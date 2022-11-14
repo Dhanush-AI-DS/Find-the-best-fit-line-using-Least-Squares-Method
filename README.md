@@ -81,7 +81,7 @@ plt.show()
 ```
 
 ## Output:
-![s](Screenshot%20(9).png)
+![s](Screenshot%20(51).png)
 ![s](Screenshot%20(15).png)
 ![s](Screenshot%20(21).png)
 
